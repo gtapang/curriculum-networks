@@ -1,0 +1,621 @@
+{
+  "source_url": "https://upd.edu.ph/academics/undergraduate/",
+  "total_programs": 78,
+  "matched": 78,
+  "unmatched": 0,
+  "programs": [
+    {
+      "website_name": "Anthropology",
+      "website_url": "https://anthro.upd.edu.ph/",
+      "section": "A",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Department of Anthropology",
+      "full_program_name": "Bachelor of Arts (Anthropology)"
+    },
+    {
+      "website_name": "Applied Physics",
+      "website_url": "http://nip.upd.edu.ph/academic-resources/programs-offered/",
+      "section": "A",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "National Institute of Physics",
+      "full_program_name": "Bachelor of Science in Applied Physics"
+    },
+    {
+      "website_name": "Applied Psychology (UPDEPPO)",
+      "website_url": "https://upepp.upd.edu.ph/academics/undergraduate-programs/",
+      "section": "A",
+      "college": "UP DILIMAN EXTENSION PROGRAM IN PAMPANGA",
+      "full_program_name": "Bachelor of Arts (Applied Psychology)"
+    },
+    {
+      "website_name": "Architecture",
+      "website_url": "https://upca.upd.edu.ph/academics/undergraduate-program/",
+      "section": "A",
+      "college": "COLLEGE OF ARCHITECTURE",
+      "full_program_name": "Bachelor of Science in Architecture"
+    },
+    {
+      "website_name": "Art Education",
+      "website_url": "https://cfa.upd.edu.ph/need-to-know/admissions/",
+      "section": "A",
+      "college": "COLLEGE OF FINE ARTS",
+      "department": "Department of Theory",
+      "full_program_name": "Bachelor of Fine Arts (Art Education)"
+    },
+    {
+      "website_name": "Art History",
+      "website_url": "https://cfa.upd.edu.ph/need-to-know/academics/academic-programs/bachelor-of-fine-arts/",
+      "section": "A",
+      "college": "COLLEGE OF FINE ARTS",
+      "department": "Department of Theory",
+      "full_program_name": "Bachelor of Fine Arts (Art History)"
+    },
+    {
+      "website_name": "Art Studies",
+      "website_url": "https://das.kal.upd.edu.ph/academic-programs/undergraduate-programs/",
+      "section": "A",
+      "specializations": [
+        "Art History",
+        "Interdisciplinary",
+        "Philippine Art"
+      ],
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of Art Studies",
+      "full_program_name": "Bachelor of Arts (Art Studies)"
+    },
+    {
+      "website_name": "Biology",
+      "website_url": "https://biology.science.upd.edu.ph/academics/",
+      "section": "B",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "Institute of Biology",
+      "full_program_name": "Bachelor of Science in Biology"
+    },
+    {
+      "website_name": "Broadcast Communication",
+      "website_url": "https://ocsgsdguide.wixsite.com/cmc-temp-site/undergraduate",
+      "section": "B",
+      "college": "COLLEGE OF MASS COMMUNICATION",
+      "department": "Department of Broadcast Communication",
+      "full_program_name": "Bachelor of Arts in Broadcast Communication"
+    },
+    {
+      "website_name": "Building Technology",
+      "website_url": "http://our.upd.edu.ph/files/catalogue/ARCH.pdf",
+      "section": "B",
+      "college": "COLLEGE OF ARCHITECTURE",
+      "full_program_name": "Certificate in Building Technology"
+    },
+    {
+      "website_name": "Business Administration",
+      "website_url": "https://www.vsb.upd.edu.ph/undergraduate-program",
+      "section": "B",
+      "college": "CESAR E.A. VIRATA SCHOOL OF BUSINESS",
+      "department": "Department of Business Administration",
+      "full_program_name": "Bachelor of Science in Business Administration"
+    },
+    {
+      "website_name": "Business Administration and Accountancy",
+      "website_url": "https://www.vsb.upd.edu.ph/undergraduate-program",
+      "section": "B",
+      "college": "CESAR E.A. VIRATA SCHOOL OF BUSINESS",
+      "department": "Department of Accounting and Finance",
+      "full_program_name": "Bachelor of Science in Business Administration and Accountancy"
+    },
+    {
+      "website_name": "Business Economics",
+      "website_url": "https://econ.upd.edu.ph/academic-programs/#undergraduate",
+      "section": "B",
+      "college": "SCHOOL OF ECONOMICS",
+      "full_program_name": "Bachelor of Science in Business Economics"
+    },
+    {
+      "website_name": "Business Economics (UPDEPPO)",
+      "website_url": "https://upepp.upd.edu.ph/academics/undergraduate-programs/",
+      "section": "B",
+      "college": "SCHOOL OF ECONOMICS",
+      "full_program_name": "Bachelor of Science in Business Economics"
+    },
+    {
+      "website_name": "Business Management (UPDEPPO)",
+      "website_url": "https://upepp.upd.edu.ph/academics/undergraduate-programs/",
+      "section": "B",
+      "college": "UP DILIMAN EXTENSION PROGRAM IN PAMPANGA",
+      "full_program_name": "Bachelor of Science in  Business Management"
+    },
+    {
+      "website_name": "Chemical Engineering",
+      "website_url": "https://dche.coe.upd.edu.ph/bs-che/",
+      "section": "C",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Chemical Engineering",
+      "full_program_name": "Bachelor of Science in Chemical Engineering"
+    },
+    {
+      "website_name": "Chemistry",
+      "website_url": "https://chemistry.science.upd.edu.ph/academics/undergraduate/",
+      "section": "C",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "Institute of Chemistry",
+      "full_program_name": "Bachelor of Science in Chemistry"
+    },
+    {
+      "website_name": "Civil Engineering",
+      "website_url": "https://ice.upd.edu.ph/bsce-degree-program/",
+      "section": "C",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Institute of Civil Engineering",
+      "full_program_name": "Bachelor of Science in Civil Engineering"
+    },
+    {
+      "website_name": "Clothing Technology",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "C",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Clothing, Textiles and Interior Design",
+      "full_program_name": "Bachelor of Science in Clothing Technology"
+    },
+    {
+      "website_name": "Community Development",
+      "website_url": "https://cswcd.upd.edu.ph/academic-offerings/",
+      "section": "C",
+      "college": "COLLEGE OF SOCIAL WORK AND COMMUNITY DEVELOPMENT",
+      "department": "Department of Community Development",
+      "full_program_name": "Bachelor of Science in Community Development"
+    },
+    {
+      "website_name": "Communication Research",
+      "website_url": "https://ocsgsdguide.wixsite.com/cmc-temp-site/undergraduate",
+      "section": "C",
+      "college": "COLLEGE OF MASS COMMUNICATION",
+      "department": "Department of Communication Research",
+      "full_program_name": "Bachelor of Arts in Communication Research"
+    },
+    {
+      "website_name": "Community Nutrition",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "C",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Food Science and Nutrition",
+      "full_program_name": "Bachelor of Science in Community Nutrition"
+    },
+    {
+      "website_name": "Comparative Literature",
+      "website_url": "http://decl.kal.upd.edu.ph/programs/comparative-literature/",
+      "section": "C",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of English and Comparative Literature",
+      "full_program_name": "Bachelor of Arts (Comparative Literature)"
+    },
+    {
+      "website_name": "Computer Engineering",
+      "website_url": "https://eee.upd.edu.ph/academics/undergraduate-programs/bs-computer-engineering/",
+      "section": "C",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Institute of Electrical and Electronics Engineering",
+      "full_program_name": "Bachelor of Science in Computer Engineering"
+    },
+    {
+      "website_name": "Computer Science",
+      "website_url": "https://dcs.upd.edu.ph/academics/undergraduate",
+      "section": "C",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Computer Science",
+      "full_program_name": "Bachelor of Science in Computer Science"
+    },
+    {
+      "website_name": "Creative Writing",
+      "website_url": "http://decl.kal.upd.edu.ph/programs/creative-writing/",
+      "section": "C",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of English and Comparative Literature",
+      "full_program_name": "Bachelor of Arts (Creative Writing)"
+    },
+    {
+      "website_name": "Economics",
+      "website_url": "https://econ.upd.edu.ph/academic-programs/#undergraduate",
+      "section": "E",
+      "college": "SCHOOL OF ECONOMICS",
+      "full_program_name": "Bachelor of Science in Economics"
+    },
+    {
+      "website_name": "Electrical Engineering",
+      "website_url": "http://www.eee.upd.edu.ph/undergraduate-programs/bs-electrical-engineering",
+      "section": "E",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Institute of Electrical and Electronics Engineering",
+      "full_program_name": "Bachelor of Science in Electrical Engineering"
+    },
+    {
+      "website_name": "Electronics Engineering",
+      "website_url": "https://eee.upd.edu.ph/academics/undergraduate-programs/bs-electronics-engineering/",
+      "section": "E",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Institute of Electrical and Electronics Engineering",
+      "full_program_name": "Bachelor of Science in Electronics andCommunications Engineering"
+    },
+    {
+      "website_name": "Elementary Education",
+      "website_url": "http://educ.upd.edu.ph/undergraduate/",
+      "section": "E",
+      "college": "COLLEGE OF EDUCATION",
+      "full_program_name": "Bachelor of Elementary Education"
+    },
+    {
+      "website_name": "English Studies: Language",
+      "website_url": "http://decl.kal.upd.edu.ph/programs/english-studies-language/",
+      "section": "E",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of English and Comparative Literature",
+      "full_program_name": "Bachelor of Arts (English Studies)"
+    },
+    {
+      "website_name": "English Studies: Literature",
+      "website_url": "http://decl.kal.upd.edu.ph/programs/english-studies-literature/",
+      "section": "E",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of English and Comparative Literature",
+      "full_program_name": "Bachelor of Arts (English Studies)"
+    },
+    {
+      "website_name": "European Languages",
+      "website_url": "https://upddel.wordpress.com/undergraduate-programs/",
+      "section": "E",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of European Languages",
+      "full_program_name": "Bachelor of Arts (European Languages)"
+    },
+    {
+      "website_name": "Family Life and Child Development",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "F",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Family Life and Child Development",
+      "full_program_name": "Bachelor of Science in Family Life and Child Development"
+    },
+    {
+      "website_name": "Filipino",
+      "website_url": "https://www.kal.upd.edu.ph/ba",
+      "section": "F",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Departamento ng Filipino at Panitikan ng Pilipinas",
+      "full_program_name": "Bachelor of Arts (Filipino at Panitikan ng Pilipinas)"
+    },
+    {
+      "website_name": "Film",
+      "website_url": "https://upfilminstitute.com/programs/",
+      "section": "F",
+      "college": "COLLEGE OF MASS COMMUNICATION",
+      "department": "Film Institute",
+      "full_program_name": "Bachelor of Arts in Film"
+    },
+    {
+      "website_name": "Food Technology",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "F",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Food Science and Nutrition",
+      "full_program_name": "Bachelor of Science in Food Technology"
+    },
+    {
+      "website_name": "Geodetic Engineering",
+      "website_url": "https://home.dge.upd.edu.ph/programs/bsge",
+      "section": "G",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Geodetic Engineering",
+      "full_program_name": "Bachelor of Science in Geodetic Engineering"
+    },
+    {
+      "website_name": "Geography",
+      "website_url": "https://geog.upd.edu.ph/bs-geography-curriculum/",
+      "section": "G",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Department of Geography",
+      "full_program_name": "Bachelor of Science (Geography)"
+    },
+    {
+      "website_name": "Geology",
+      "website_url": "https://nigs.upd.edu.ph/undergraduate",
+      "section": "G",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "National Institute of Geological Sciences",
+      "full_program_name": "Bachelor of Science in Geology"
+    },
+    {
+      "website_name": "History",
+      "website_url": "https://history.upd.edu.ph/",
+      "section": "H",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Departamento ng Kasaysayan",
+      "full_program_name": "Bachelor of Arts (History)"
+    },
+    {
+      "website_name": "Home Economics",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "H",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Home Economics Education",
+      "full_program_name": "Bachelor of Science in Home Economics"
+    },
+    {
+      "website_name": "Hotel, Restaurant and Institutional Management",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "H",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Hotel, Restaurant and Institution Management",
+      "full_program_name": "Bachelor of Science in Hotel, Restaurant and Institution Management"
+    },
+    {
+      "website_name": "Industrial Design",
+      "website_url": "https://cfa.upd.edu.ph/need-to-know/academics/academic-programs/bachelor-of-fine-arts/",
+      "section": "I",
+      "college": "COLLEGE OF FINE ARTS",
+      "department": "Department of Visual Communication",
+      "full_program_name": "Bachelor of Fine Arts (Industrial Design)"
+    },
+    {
+      "website_name": "Industrial Engineering",
+      "website_url": "https://ieor.engg.upd.edu.ph/academics/undergraduate-programs/",
+      "section": "I",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Industrial Engineering and Operations Research",
+      "full_program_name": "Bachelor of Science in Industrial Engineering"
+    },
+    {
+      "website_name": "Interior Design",
+      "website_url": "https://che.upd.edu.ph/undergraduate-programs/",
+      "section": "I",
+      "college": "COLLEGE OF HOME ECONOMICS",
+      "department": "Department of Clothing, Textiles and Interior Design",
+      "full_program_name": "Bachelor of Science in Interior Design"
+    },
+    {
+      "website_name": "Journalism",
+      "website_url": "https://ocsgsdguide.wixsite.com/cmc-temp-site/undergraduate",
+      "section": "J",
+      "college": "COLLEGE OF MASS COMMUNICATION",
+      "department": "Department of Journalism",
+      "full_program_name": "Bachelor of Arts in Journalism"
+    },
+    {
+      "website_name": "Juris Doctor",
+      "website_url": "https://law.upd.edu.ph/jd-program/",
+      "section": "J",
+      "college": "COLLEGE OF LAW",
+      "full_program_name": "Juris Doctor"
+    },
+    {
+      "website_name": "Landscape Architecture",
+      "website_url": "https://upca.upd.edu.ph/academics/bachelor-in-landscape-architecture/",
+      "section": "L",
+      "college": "COLLEGE OF ARCHITECTURE",
+      "full_program_name": "Bachelor of Landscape Architecture"
+    },
+    {
+      "website_name": "Library and Information Studies",
+      "website_url": "https://upslis.info/studywithus",
+      "section": "L",
+      "college": "SCHOOL OF LIBRARY AND INFORMATION STUDIES",
+      "full_program_name": "Bachelor of Library and Information Science"
+    },
+    {
+      "website_name": "Linguistics",
+      "website_url": "https://linguistics.upd.edu.ph/programs/undergraduate/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExRzVtS0dkMzk3dmtscU1mR3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7FLtH2584qzN_OTJmKdtrTUMtgiQGqAZgUo2dIQ_HjCSejqqCcQIRz6E0YYA_aem_YWdncwCvTWrbf6w4ke-_sr8Rd5yd&brid=YWdncwGBtfd3UA5wwP4nVxhl8HVN",
+      "section": "L",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Departamento ng Linggwistiks",
+      "full_program_name": "Bachelor of Arts (Linguistics)"
+    },
+    {
+      "website_name": "Malikhaing Pagsulat",
+      "website_url": "https://www.kal.upd.edu.ph/",
+      "section": "M",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Departamento ng Filipino at Panitikan ng Pilipinas",
+      "full_program_name": "Bachelor of Arts (Malikhaing Pagsulat sa Filipino)"
+    },
+    {
+      "website_name": "Materials Engineering",
+      "website_url": "https://dmmme.coe.upd.edu.ph/programs/",
+      "section": "M",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Mining, Metallurgical, and Materials Engineering",
+      "full_program_name": "Bachelor of Science in Materials Engineering"
+    },
+    {
+      "website_name": "Mechanical Engineering",
+      "website_url": "https://dme.sites.upd.edu.ph/undergraduate-program/",
+      "section": "M",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Mechanical Engineering",
+      "full_program_name": "Bachelor of Science in Mechanical Engineering"
+    },
+    {
+      "website_name": "Mathematics",
+      "website_url": "https://math.upd.edu.ph/?page_id=859",
+      "section": "M",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "Institute of Mathematics",
+      "full_program_name": "Bachelor of Science in Mathematics"
+    },
+    {
+      "website_name": "Metallurgical Engineering",
+      "website_url": "https://dmmme.coe.upd.edu.ph/programs/",
+      "section": "M",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Mining, Metallurgical, and Materials Engineering",
+      "full_program_name": "Bachelor of Science in Metallurgical Engineering"
+    },
+    {
+      "website_name": "Mining Engineering",
+      "website_url": "https://dmmme.coe.upd.edu.ph/programs/",
+      "section": "M",
+      "college": "COLLEGE OF ENGINEERING",
+      "department": "Department of Mining, Metallurgical, and Materials Engineering",
+      "full_program_name": "Bachelor of Science in Mining Engineering"
+    },
+    {
+      "website_name": "Molecular Biology and Biotechnology",
+      "website_url": "https://nimbb.upd.edu.ph/?page_id=7956",
+      "section": "M",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "National Institute of Molecular Biology and Biotechnology",
+      "full_program_name": "Bachelor of Science in Molecular Biology and Biotechnology"
+    },
+    {
+      "website_name": "Music",
+      "website_url": "https://music.upd.edu.ph/Undergraduate.html",
+      "section": "M",
+      "college": "COLLEGE OF MUSIC",
+      "full_program_name": "Bachelor of Music"
+    },
+    {
+      "website_name": "Painting",
+      "website_url": "https://cfa.upd.edu.ph/need-to-know/academics/academic-programs/bachelor-of-fine-arts/",
+      "section": "P",
+      "college": "COLLEGE OF FINE ARTS",
+      "department": "Department of Studio Arts",
+      "full_program_name": "Bachelor of Fine Arts (Painting)"
+    },
+    {
+      "website_name": "Philippine Studies",
+      "website_url": "http://our.upd.edu.ph/files/catalogue/CAL.pdf",
+      "section": "P",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Departamento ng Filipino at Panitikan ng Pilipinas",
+      "full_program_name": "Bachelor of Arts (Philippine Studies)"
+    },
+    {
+      "website_name": "Philosophy",
+      "website_url": "http://pages.upd.edu.ph/philosophy/undergraduate-program",
+      "section": "P",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Department of Philosophy",
+      "full_program_name": "Bachelor of Arts (Philosophy)"
+    },
+    {
+      "website_name": "Physical Education",
+      "website_url": "https://www.chk.upd.edu.ph/programs/undergraduate-programs",
+      "section": "P",
+      "college": "COLLEGE OF HUMAN KINETICS",
+      "department": "Department of  Physical Education",
+      "full_program_name": "Bachelor of Physical Education"
+    },
+    {
+      "website_name": "Physics",
+      "website_url": "http://www.nip.upd.edu.ph/academic-resources/programs-offered/",
+      "section": "P",
+      "college": "COLLEGE OF SCIENCE",
+      "department": "National Institute of Physics",
+      "full_program_name": "Bachelor of Science in Physics"
+    },
+    {
+      "website_name": "Political Science",
+      "website_url": "https://polisci.upd.edu.ph/undergraduate-program/bachelor-of-arts-political-science/",
+      "section": "P",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Department of Political Science",
+      "full_program_name": "Bachelor of Arts (Political Science)"
+    },
+    {
+      "website_name": "Psychology",
+      "website_url": "https://www.psych.upd.edu.ph/academics/undergraduate-program",
+      "section": "P",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Department of Psychology",
+      "full_program_name": "Bachelor of Arts (Psychology)"
+    },
+    {
+      "website_name": "Public Administration",
+      "website_url": "http://ncpag.upd.edu.ph/academic-programs/undergraduate-program/",
+      "section": "P",
+      "college": "GOVERNANCE",
+      "full_program_name": "Bachelor of Public Administration"
+    },
+    {
+      "website_name": "Sculpture",
+      "website_url": "https://cfa.upd.edu.ph/need-to-know/academics/academic-programs/bachelor-of-fine-arts/",
+      "section": "S",
+      "college": "COLLEGE OF FINE ARTS",
+      "department": "Department of Studio Arts",
+      "full_program_name": "Bachelor of Fine Arts (Sculpture)"
+    },
+    {
+      "website_name": "Secondary Education",
+      "website_url": "http://educ.upd.edu.ph/undergraduate/",
+      "section": "S",
+      "college": "COLLEGE OF EDUCATION",
+      "full_program_name": "Bachelor of Secondary Education"
+    },
+    {
+      "website_name": "Social Work",
+      "website_url": "https://cswcd.upd.edu.ph/academic-offerings/",
+      "section": "S",
+      "college": "COLLEGE OF SOCIAL WORK AND COMMUNITY DEVELOPMENT",
+      "department": "Department of Social Work",
+      "full_program_name": "Bachelor of Science in Social Work"
+    },
+    {
+      "website_name": "Sociology",
+      "website_url": "https://sociologyupd.wordpress.com/undergraduate-program/",
+      "section": "S",
+      "college": "COLLEGE OF SOCIAL SCIENCES AND PHILOSOPHY",
+      "department": "Department of Sociology",
+      "full_program_name": "Bachelor of Arts (Sociology)"
+    },
+    {
+      "website_name": "Speech Communication",
+      "website_url": "https://www.dscta.kal.upd.edu.ph/bachelor-of-arts-speech-communication",
+      "section": "S",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of Speech Communication and Theatre Arts",
+      "full_program_name": "Bachelor of Arts (Speech Communication)"
+    },
+    {
+      "website_name": "Sport Science",
+      "website_url": "https://www.chk.upd.edu.ph/programs/undergraduate-programs",
+      "section": "S",
+      "college": "COLLEGE OF HUMAN KINETICS",
+      "department": "Department of Sports Science",
+      "full_program_name": "Bachelor of Sports Science"
+    },
+    {
+      "website_name": "Sports Studies",
+      "website_url": "https://www.chk.upd.edu.ph/programs/undergraduate-programs",
+      "section": "S",
+      "college": "COLLEGE OF HUMAN KINETICS",
+      "department": "Department of Sports Science",
+      "full_program_name": "Certificate in Sports Studies"
+    },
+    {
+      "website_name": "Statistics",
+      "website_url": "https://www.stat.upd.edu.ph/programs/undergraduate",
+      "section": "S",
+      "college": "SCHOOL OF STATISTICS",
+      "full_program_name": "Bachelor of Science (Statistics)"
+    },
+    {
+      "website_name": "Theatre Arts",
+      "website_url": "https://www.dscta.kal.upd.edu.ph/bachelor-of-arts-speech-communication-copy",
+      "section": "T",
+      "college": "COLLEGE OF ARTS AND LETTERS",
+      "department": "Department of Speech Communication and Theatre Arts",
+      "full_program_name": "Bachelor of Arts (Theatre Arts)"
+    },
+    {
+      "website_name": "Tourism",
+      "website_url": "https://ait.upd.edu.ph/bachelor-of-science-in-tourism/",
+      "section": "T",
+      "college": "ASIAN INSTITUTE OF TOURISM",
+      "full_program_name": "Bachelor of Science in Tourism"
+    },
+    {
+      "website_name": "Visual Communication",
+      "website_url": "https://cfa.upd.edu.ph/need-to-know/academics/academic-programs/bachelor-of-fine-arts/",
+      "section": "V",
+      "college": "COLLEGE OF FINE ARTS",
+      "department": "Department of Visual Communication",
+      "full_program_name": "Bachelor of Fine Arts (Visual Communication)"
+    }
+  ]
+}
