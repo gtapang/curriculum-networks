@@ -1,0 +1,195 @@
+Curriculum Network Analysis of 
+Quantitative Bottlenecks in Hospitality Management Education
+Larissa Mae Maranan-Montano1, 3 & Giovanni A. Tapang2,3
+1 Department of Hotel, Restaurant, and Institution Management, College of Home Economics
+2 National Institute of Physics, College of Science
+3 Data Science Program, College of Science
+University of the Philippines Diliman
+1
+Concurrent Session 5.11 | Tourism and Hospitality Education Systems
+Asia Pacific Council on Hotel, Restaurant, and Institutional Education
+APacCHRIE 2026
+Ritsumeikan Future Plaza, Osaka, Japan
+1
+Good afternoon. I am here to present our research, Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Management Education. I am Larissa Mae Maranan-Montano, and with me is my co-author, Prof. Giovanni Tapang.
+
+
+
+Foundational Concept: The Network
+A curriculum is modeled as a graph consisting of nodes (subjects) and edges (prerequisites).
+2
+Subject 1
+Subject 2
+Subject 3
+Prerequisite
+Prerequisite
+Aldrich, P. R. (2015). The curriculum prerequisite network: Modeling the curriculum as a complex system. Biochemistry and Molecular Biology Education, 43(3), 168–180.
+Curriculum Network Analysis
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+Have you ever reviewed your respective curricula:
+Intended curriculum structure vs actual student progression
+STEM academics modeled curriculum using network analysis
+Network: graph made up of nodes - individual entities; relationship with other nodes linked by edges 
+Curr network: nodes: subjects; edge: prerequisite
+Aldrich (2015) modeling undergrad curr at Benedictine University as a Course Prerequisite Network (CPN), revealing hidden community clusters, bridges, and hub courses not apparent from the catalog alone.
+
+Case Study: PH Hospitality Program
+First cohort (2021)
+76% faced multi-semester delays or left the program entirely
+Structural friction (calculus, statistics)
+64% enrollment surge(2023-2025 intake)
+
+3
+24%
+On-Time Graduation Rate
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+We wanted to apply that in hospitality. 
+undergraduate curriculum and sought access to student records. 
+low on-time graduation rate due to failure in prerequisite courses, particularly in calculus and statistics. 
+However, in the past couple of years, their enrollment has also increased. 
+
+
+Research Objectives
+Network Mapping
+Map curriculum as empirical progression network to visualize student flow
+Bottleneck Analysis
+Identify bottleneck nodes that hinder on-time graduation
+Impact Evaluation
+Quantify impact of failure rates on institutional resources and student progress
+4
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+provide a framework for curriculum management by pursuing the following objectives. 
+First, we wanted to map the curriculum of an undergraduate hospitality program as an empirical progression network to visualize the intended student flow. 
+Next, we identified which subjects students struggle with and end up in retake loops, preventing them from graduating on time. 
+Lastly, we quantified the impact of these failures on student progress.
+
+
+Hospitality Curricula
+Calculus and statistics in hospitality (Cullen & Lambert, 1987)
+To include (Fei et al., 2025):
+Revenue management
+Demand forecasting
+Data-driven pricing
+Not required in the ASEAN Common Competency Standards for Tourism Professionals (ACCSTP), Common ASEAN Tourism Curriculum (CATC), and Philippine Commission on Higher Education (CHED)
+5
+Cullen, T. P., & Lambert, C. U. (1987). Teaching Quantitative Decision Skills in a Hospitality Curriculum. Cornell Hotel and Restaurant Administration Quarterly, 28(2), 42–45. https://doi.org/10.1177/001088048702800215
+
+Fei, A., Chen, J., Lee, W., Xin, K., Behnke, C., & Gordon, S. (2025). Designing Hospitality Curriculum for the Future: A Comprehensive Assessment of an Undergraduate Program in the United States. Journal of Hospitality & Tourism Education, 37(2), 138–153. https://doi.org/10.1080/10963758.2025.2453736
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+
+Methodology: Dual-Network Analysis
+
+6
+Structural Model
+156-unit curriculum checklist
+Empirical Model
+Anonymized curriculum checklists of 269 students
+Visualization
+Gephi
+Sankey Diagrams
+Yang, B., Gharebhaygloo, M., Rondi, H. R., Hortis, E., Lostalo, E. Z., Huang, X., & Ercal, G. (2024). Comparative analysis of course prerequisite networks for five Midwestern public institutions. Applied Network Science, 9(1), 25. https://doi.org/10.1007/s41109-024-00637-z
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+So here’s what we did in our study. This research employs a dual-network analysis, looking at both the intended curriculum checklist vis-à-vis the actual student progression within the curriculum. 
+
+First, we modeled the formal 156-unit hospitality curriculum as a directed graph to quantify its inherent complexity. Following Yang et al. (2024), the curriculum is formally encoded as the Course Prerequisite Network, where a graph is represented by vectors and edges. This means the courses with their prerequisites are linked together as edges. Courses that are corequisites are also linked together, but given a lower weight.
+
+
+Next, we modeled the students’ actual academic histories to identify deviations from the theoretical blueprint. We extracted and anonymized 269 curriculum checklists of currently enrolled students. Here, we map the subjects students actually took sequentially, including retakes. Each node was enriched with performance data, including total attempts, failure rate, counts of incomplete, and dropped attempts. Edges were weighted by the volume of student flow between subjects across all recorded semesters.
+
+We used Gephi to visualize the two networks. The ForceAtlas2 force-directed algorithm was used (Jacomy et al., 2014), which positions high-degree hub nodes centrally and clusters tightly-connected courses together. Community detection was performed using the Louvain algorithm (Blondel et al., 2008), and modularity scores (Newman & Girvan, 2004) were computed for both networks. We also used Sankeymatic to map out students’ current standing based on their milestones in the curriculum checklist.
+
+
+7
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+General education
+Foundation
+Quantitative chain
+Lodging
+F&B and Research
+Management
+Structural Curriculum Network 
+Precalc
+CALC
+ORM
+STAT
+CONTROL
+ACCT
+MKTG
+
+8
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+GE and foundations
+Sophomore
+Juniors and Seniors
+Empirical Progression Network
+CALC
+STAT
+SCI
+HYGN
+SERVQUAL
+FPREP
+FCULT
+ETHICS
+HEFAM
+NUTR
+ROOMS
+PROC
+ORM
+LANG2
+SOCS
+This is our Empirical Progression Network, mapping 1,621 active transition edges. The network reorganizes into three functional layers. Layer 1 consists of foundational launchpads like Macro-perspectives and Accounting. 
+
+But look closely at Layer 2, the blue nodes. Here sits CALC, emerging as our dominant academic bottleneck. It recorded 295 attempts from 194 unique students. It holds an alarming 37.3% failure rate. The thick self-loop edge on Calculus has a weight of 71, meaning we have 71 instances of students being forced to re-enroll in the exact same course after failing. Statistics follows a parallel, though less severe, bottleneck path with a 13.2% failure rate and 21 retake self-loops 
+
+Students at a glance
+9
+Total Enrolled
+269
+Hospitality Students
+Past all bottlenecks
+171
+68% of enrolled
+Stuck at CALC
+98
+37.3% fail rate
+Near Graduation
+36
+Thesis-level and above
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+Here is the pipeline of where the students are currently. We used Sankeymatic to visually map out the student’s progress, utilizing the subjects that they have already passed.
+
+
+Conclusion
+10
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+Design-reality gap between structural vs empirical networks
+CALC and STAT as quantitative gates
+For advisers and policymakers:
+Early support for CALC, STAT
+Review reliance on prerequisite chains
+Curriculum network analytics as a routine tool to monitor progress 
+Basis for curricular revision
+it is easy to look at our data, our modularity collapse, and our Sankey pipeline and think: ‘That is a fascinating, localized problem at the University of the Philippines.’ But let me challenge everyone in this room today. Do you actually know where the hidden bottlenecks are in your own program catalogs? Do you know how many of your students are trapped in localized self-loops, retaking the same prerequisites semester after semester, completely invisible to your academic committees? 
+
+Limitations and Suggestions for Future Research
+11
+Maranan-Montano & Tapang 		   Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality Education
+Single institution, currently enrolled students
+Survivorship bias
+Students with DRP not counted in the retake loop
+Qualitative interviews
+Comparative study with other BSHM programs in the country/region
+
+Curriculum Network Analysis of 
+Quantitative Bottlenecks in Hospitality Management Education
+Larissa Mae Maranan-Montano1, 3 & Giovanni A. Tapang2,3
+1 Department of Hotel, Restaurant, and Institution Management, College of Home Economics
+2 National Institute of Physics, College of Science
+3 Data Science Program, College of Science
+University of the Philippines Diliman
+12
+Concurrent Session 5.11 | Tourism and Hospitality Education Systems
+
+APacCHRIE 2026
+Ritsumeikan Future Plaza, Osaka, Japan
+12

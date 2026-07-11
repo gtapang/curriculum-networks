@@ -1,0 +1,57 @@
+Source,Target,Type,Label,Weight
+PRECALC,CALC,Directed,Prerequisite,2
+MACRO,MICRO,Directed,Prerequisite,2
+CALC,ORM,Directed,Prerequisite,2
+STAT,ORM,Directed,Prerequisite,2
+MICRO,ORM,Directed,Prerequisite,2
+MICRO,SERVQUAL,Directed,Prerequisite,2
+MICRO,HEFAM,Directed,Prerequisite,2
+MICRO,NUTR,Directed,Prerequisite,2
+FPREP,NUTR,Directed,Prerequisite,2
+MICRO,FCULT,Directed,Prerequisite,2
+FPREP,PROC,Directed,Prerequisite,2
+FS 105,PROC,Directed,Prerequisite,2
+MICRO,PROC,Directed,Prerequisite,2
+MICRO,ROOMS,Directed,Prerequisite,2
+MICRO,ETHICS,Directed,Prerequisite,2
+SERVQUAL,CUL,Directed,Prerequisite,2
+PROC,CUL,Directed,Prerequisite,2
+BEV,CUL,Undirected,Corequisite,1
+CONTROL,CUL,Undirected,Corequisite,1
+PROC,BEV,Directed,Prerequisite,2
+ACCT,CONTROL,Directed,Prerequisite,2
+ORM,CONTROL,Directed,Prerequisite,2
+PROC,CONTROL,Directed,Prerequisite,2
+ROOMS,MIS,Directed,Prerequisite,2
+CUL,MIS,Undirected,Corequisite,1
+MICRO,HR,Directed,Prerequisite,2
+CUL,HR,Undirected,Corequisite,1
+ROOMS,MKTG,Directed,Prerequisite,2
+CUL,MKTG,Undirected,Corequisite,1
+CUL,LAW,Directed,Prerequisite,2
+CUL,CATER,Directed,Prerequisite,2
+BEV,CATER,Directed,Prerequisite,2
+CONTROL,FIN,Directed,Prerequisite,2
+ACCT,EMGT,Directed,Prerequisite,2
+MKTG,EMGT,Directed,Prerequisite,2
+STAT,RES,Directed,Prerequisite,2
+CUL,RES,Directed,Prerequisite,2
+BEV,RES,Directed,Prerequisite,2
+CONTROL,RES,Directed,Prerequisite,2
+MIS,RES,Directed,Prerequisite,2
+HR,RES,Directed,Prerequisite,2
+MKTG,RES,Directed,Prerequisite,2
+MKTG,FPLAN,Directed,Prerequisite,2
+FIN,FPLAN,Directed,Prerequisite,2
+ROOMS,PROP,Directed,Prerequisite,2
+MKTG,SMGT,Directed,Prerequisite,2
+FIN,SMGT,Directed,Prerequisite,2
+FPLAN,PRACTICUM,Directed,Prerequisite,2
+PROP,PRACTICUM,Directed,Prerequisite,2
+SMGT,PRACTICUM,Directed,Prerequisite,2
+HRIM 200,PRACTICUM,Directed,Prerequisite,2
+HRIM Elective,PRACTICUM,Directed,Prerequisite,2
+HRIM Elective,PRACTICUM,Directed,Prerequisite,2
+SERV1,SERV2,Directed,Prerequisite,2
+LANG1,LANG2,Directed,Prerequisite,2
+RES,THESIS,Directed,Prerequisite,2
