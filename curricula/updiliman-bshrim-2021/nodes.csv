@@ -1,0 +1,56 @@
+Id,Label,Category,Units
+HIST,Kas 1,GE,3
+SPEECH,Speech 30,GE,3
+ARTS,ARTS 1,GE,3
+PHILO,Philo 1,GE,3
+MACRO,Macro-Perspectives in HRRI,Core,3
+ACCT,Introduction to Financial Accounting in HRRI,Core,3
+PRECALC,Precalculus: Functions and their Graphs,Non-Credit,-4
+PHYSED1,PE,PE,-2
+SOCS,Soc Sci 1 / Soc Sci 2,GE,3
+WRITING,Eng 13,,3
+ECON,Econ 11,,3
+MICRO,Micro-Perspectives,,3
+RES MGT,Introduction to Management of Family Resources,,2
+CALC,Elementary Analysis,Core,4
+PHYSED2,PE,PE,-2
+ENV,Env Sci,GE,3
+STAT,Elementary Statistics,Core,3
+WIKA,Fil 40,GE,3
+ORM,Operations Management,Core,3
+SERVQUAL,Service Quality Management,Core,3
+FPREP,Principles of Food Prep,Core,3
+HYGN,Food Hygiene and Sanitation,Core,3
+HEFAM,Family Life & Societal Development,Core,3
+LANG1,Foreign Language Elective,Foreign Language,3
+PHYSED3,PE,PE,-2
+SERV1,NSTP,NSTP,-3
+SCI,STS/DRMAPS,GE,3
+NUTR,Nutrition,Core,3
+FCULT,Food and Culture,Core,3
+PROC,Procurement,Core,3
+ROOMS,Rooms Division,Core,3
+ETHICS,Ethics & Values,Core,3
+LANG2,Foreign Language Elective,Foreign Language,3
+PHYSED4,PE,PE,-2
+SERV2,NSTP,NSTP,-3
+CUL,Culinary Management,Core,5
+BEV,Beverage Management,Core,3
+CONTROL,Managerial Control,Core,3
+MIS,Management Information Systems,Core,3
+HR,Human Resource Management,Core,3
+MKTG,Marketing Management,Core,3
+LAW,Law ,Core,3
+CATER,Catering Management,Core,5
+FIN,Financial Management,Core,3
+EMGT,Events Management,Core,3
+RES,Research Methods,Core,3
+HOSPELECT1,HRIM Elective,HRIM Elective,3
+RIZAL,PI 100,Core,3
+FPLAN,Facilities Planning & Design,Core,4
+PROP,Properties Management,Core,3
+SMGT,Strategic Management,Core,3
+THESIS,Thesis,Core,3
+HOSPELECT2,HRIM Elective,HRIM Elective,3
+HOSPELECT3,HRIM Elective,HRIM Elective,3
+PRACTICUM,Practicum,Core,10

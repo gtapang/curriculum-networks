@@ -1,0 +1,27 @@
+slug: updiliman-bshrim-2021
+program: BS Hotel, Restaurant and Institution Management
+program_short: BSHRIM
+institution: University of the Philippines Diliman
+country: Philippines
+catalog_year: 2021
+total_units: 156
+source: >
+  Anonymized curriculum tables from Maranan-Montano & Tapang (APacCHRIE 2026),
+  "Curriculum Network Analysis of Quantitative Bottlenecks in Hospitality
+  Management Education" (repo: data/nodes_table_anon.csv, data/edges_table_anon.csv).
+tags: [hospitality, reference-curriculum]
+quantitative_courses: [PRECALC, CALC, STAT]
+notes: |
+  Normalizations applied when migrating the anonymized APacCHRIE tables to the
+  canonical format (original tables kept unchanged in data/ for provenance):
+  - Repeated slot Ids numbered to make node Ids unique: PHYSED1-4 (PE 1-4),
+    LANG1-2, SERV1-2 (NSTP), HOSPELECT1-3 (HRIM electives). The edges table
+    already used LANG1/LANG2 and SERV1/SERV2.
+  - Edge source "HRIM Elective" (x2, practicum prereqs) -> HOSPELECT1, HOSPELECT2.
+  - Edge source "FS 105" -> HYGN: assumed to be Food Hygiene and Sanitation,
+    whose real course code leaked into the anonymized edge table. CONFIRM.
+  - Edge source "HRIM 200" -> THESIS: HRIM 200 is the thesis course
+    (RES = HRIM 199 Research Methods). CONFIRM.
+  Negative Units mark non-credit requirements (PE, NSTP, PRECALC/Math 20)
+  following the convention in the original tables; only positive units count
+  toward the 156-unit total.

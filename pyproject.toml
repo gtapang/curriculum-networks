@@ -1,0 +1,21 @@
+[project]
+name = "curricnet"
+version = "0.1.0"
+description = "Curriculum network analysis toolkit: course-prerequisite networks, curricular-analytics metrics, and empirical student-progression networks"
+requires-python = ">=3.10"
+dependencies = [
+    "networkx>=3.0",
+    "pandas>=2.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+viz = ["plotly>=5.0"]
+dev = ["pytest>=7.0"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["curricnet"]

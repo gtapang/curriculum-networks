@@ -1,6 +1,38 @@
 # curriculum-networks
 
-Curriculum Networks analysis.
+Curriculum Networks analysis: a toolkit (`curricnet`) and datasets for
+modeling degree programs as course-prerequisite networks, computing
+curricular-analytics metrics, and studying student progression — across
+programs, institutions, and countries.
+
+## Quick start
+
+```bash
+pip install -e .[dev]
+pytest tests/            # regression suite reproduces the published BSHRIM results
+```
+
+```python
+from curricnet import load_curriculum, course_metrics, curriculum_summary
+from curricnet.compare import compare_directory
+
+bshrim = load_curriculum("curricula/updiliman-bshrim-2021")
+course_metrics(bshrim)          # blocking/delay factor, cruciality per course
+curriculum_summary(bshrim)      # one master-table row
+compare_directory("curricula")  # cross-curriculum comparison table
+```
+
+- `curricnet/` — package: `schema` (validation), `ingest` (CSV/checklist/GEXF),
+  `metrics` (Heileman blocking/delay/cruciality/structural complexity + CPN
+  descriptors), `cohort` (empirical progression networks from student records),
+  `viz` (GEXF/Sankey/tables), `compare` (master table).
+- `curricula/` — one directory per encoded curriculum
+  (`curriculum.yaml` + `nodes.csv` + `edges.csv`).
+- `docs/literature.md` — annotated bibliography; `docs/data-sources.md` —
+  acquisition tracker (UP Diliman, CHED PSGs, international).
+- `tests/` — regression tests pinned to the published APacCHRIE 2026 numbers.
+
+## Reference case study (APacCHRIE 2026)
 
 Working data and documents for **"Curriculum Network Analysis of Quantitative
 Bottlenecks in Hospitality Management Education"** (Maranan-Montano & Tapang,
