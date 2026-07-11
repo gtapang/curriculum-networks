@@ -41,3 +41,21 @@ qa: |
   matches). Confirm which reflects the final approved curriculum.
   Anon-to-code mapping of ETHICS and LAW (candidates HE 100 / HRIM 160) is
   ambiguous from the anonymized tables alone — authors to confirm.
+  Cross-check vs the REVISED FINAL manuscript (papers/):
+  - Empirical-network claims all verified against data/course_network.gexf:
+    269 students; 1,621 non-self-loop edges (1,633 incl. 12 self-loops);
+    CALC 295 attempts / 194 students / 37.3% fail / avg 3.56 / self-loop 71;
+    STAT 249 / 13.2% / avg 2.80 / self-loop 21; ACCT 273 / 4.0% / avg 2.09 /
+    self-loop 11; ECON 185 / 4.9%; MACRO 268; PRECALC 115; MICRO in-degree
+    1,106 / 0.0% fail. Degree figures in the paper exclude self-loop weights
+    (e.g. CALC in 1,252 - 71 = 1,181 as printed) — consistent throughout.
+  - Empirical modularity: paper Q = 0.231 vs 0.197 here (within
+    Louvain/Gephi implementation variation).
+  - REPRODUCIBILITY FLAG: structural modularity Q = 0.674 with 9 communities
+    (C1 = 12 courses) is NOT attainable from the anonymized structural
+    tables — best achievable partition here is Q ≈ 0.48 (weighted/unweighted,
+    with/without isolates, greedy + 20 Louvain seeds). The figure was likely
+    computed on a different structural graph (e.g. a Gephi project version
+    with additional edges). Authors should archive the exact structural GEXF
+    used for Figure 1 in this repo; lar-00.gexf and course_network.gexf are
+    both the empirical network.
