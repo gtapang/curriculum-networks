@@ -18,10 +18,26 @@ notes: |
     LANG1-2, SERV1-2 (NSTP), HOSPELECT1-3 (HRIM electives). The edges table
     already used LANG1/LANG2 and SERV1/SERV2.
   - Edge source "HRIM Elective" (x2, practicum prereqs) -> HOSPELECT1, HOSPELECT2.
-  - Edge source "FS 105" -> HYGN: assumed to be Food Hygiene and Sanitation,
-    whose real course code leaked into the anonymized edge table. CONFIRM.
-  - Edge source "HRIM 200" -> THESIS: HRIM 200 is the thesis course
-    (RES = HRIM 199 Research Methods). CONFIRM.
+  - Edge source "FS 105" -> HYGN: VERIFIED against Appendix H (10 Dec 2020 CC /
+    19 Apr 2021 UC) — FS 105 is "Principles and Methods of Food Hygiene and
+    Sanitation".
+  - Edge source "HRIM 200" -> THESIS: VERIFIED against Appendix H — HRIM 200
+    is "Undergraduate Thesis" (RES = HRIM 199 Research Methods).
   Negative Units mark non-credit requirements (PE, NSTP, PRECALC/Math 20)
   following the convention in the original tables; only positive units count
   toward the 156-unit total.
+qa: |
+  Cross-checked against the UC-approved source document (Appendix H,
+  "Copy of Appendix H and H1_Revision of BSHIRM (1).pdf", project Drive):
+  matches include ORM (HRIM 131) <- Math 21 + Stat 101 + HRIM 120;
+  CONTROL (153) <- HRIM 116 + 131 + 143; CUL (150) <- 132 + 143 with coreqs
+  151 + 153; MIS (154) <- 144 with coreq 150; CATER (161) <- 150 + 151;
+  FIN (162) <- 153; FPLAN (176) <- 156 + 162; SMGT (179) <- 156 + 162;
+  PROP (177) <- 144; THESIS (200) <- 199; EMGT (163) <- 116 + 156;
+  NUTR (140) <- FN 102 + 120; FCULT (142) <- 120; ROOMS (144) <- 120.
+  DISCREPANCY to resolve with authors: the anonymized edge table has
+  corequisite CUL-HR (HRIM 150 - HRIM 155), but Appendix H (p. 6) gives
+  HRIM 155's corequisite as HRIM 153 Managerial Control (prereq HRIM 120
+  matches). Confirm which reflects the final approved curriculum.
+  Anon-to-code mapping of ETHICS and LAW (candidates HE 100 / HRIM 160) is
+  ambiguous from the anonymized tables alone — authors to confirm.

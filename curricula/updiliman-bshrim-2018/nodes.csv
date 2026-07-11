@@ -1,0 +1,51 @@
+Id,Label,Category,Units,Semester,Year
+Kas 1,Kasaysayan ng Pilipinas (GE 1),GE,3,1,1
+Speech 30,Public Speaking (GE 2),GE,3,1,1
+ARTS 1,Critical Perspectives in the Arts (GE 3),GE,3,1,1
+Philo 1,Philosophical Analysis (GE 4),GE,3,1,1
+HRIM 110,Macro-Perspectives in HRRI,Core,3,1,1
+HRIM 101,Introduction to Financial Accounting in HRRI,Core,3,1,1
+PE 1,Physical Education,PE,-2,1,1
+Soc Sci 1,Soc Sci 1 / Soc Sci 2 (GE 5),GE,3,2,1
+Eng 13,Writing as Thinking (GE 6),GE,3,2,1
+Env Sci 1,Environmental Science (GE 7),GE,3,2,1
+Econ 11,General Economics (GE 8),GE,3,2,1
+HRIM 120,Micro-Perspectives in HRRI,Core,3,2,1
+Math 21,Elementary Analysis I,Core,4,2,1
+Math 20,Precalculus (non-credit path),Non-Credit,-4,2,1
+PE 2,Physical Education,PE,-2,2,1
+Fil 40,Wika ng Pananaliksik (GE 9),GE,3,1,2
+Stat 101,Elementary Statistics,Core,3,1,2
+FS 105,Principles and Methods of Food Hygiene and Sanitation,Core,3,1,2
+FN 11,Principles of Food Preparation,Core,3,1,2
+HE 100,HE 100,Core,3,1,2
+Elective 1,Qualified Elective (HRIM/Non-HRIM),Elective,3,1,2
+PE 3,Physical Education,PE,-2,1,2
+NSTP 1,National Service Training Program,NSTP,-3,1,2
+STS 1,STS 1 / DRMAPS (GE 10),GE,3,2,2
+HRIM 102,Rooms Division Management,Core,3,2,2
+HRIM 103,Nutrition in HRRI,Core,3,2,2
+HRIM 106,Computers in the Management of HRRI,Core,3,2,2
+HE 101,HE 101,Core,3,2,2
+Elective 2,Qualified Elective (HRIM/Non-HRIM),Elective,3,2,2
+PE 4,Physical Education,PE,-2,2,2
+NSTP 2,National Service Training Program,NSTP,-3,2,2
+HRIM 104,Food and Beverage Management I,Core,5,1,3
+HRIM 105,Beverage Management I,Core,3,1,3
+HRIM 107,Management Information Systems for HRRI,Core,3,1,3
+HRIM 109,Purchasing Management,Core,3,1,3
+HRIM 112,Business Management in HRRI,Core,3,1,3
+HRIM 115,Management Accounting in HRRI,Core,3,1,3
+HRIM 111,Food and Beverage Management II,Core,5,2,3
+HRIM 127,Human Resource Management I,Core,3,2,3
+HRIM 130,Cost Control and Analysis,Core,3,2,3
+HRIM 160,HRIM 160 (Law),Core,3,2,3
+HRIM 170,Marketing Management in HRRI I,Core,3,2,3
+HRIM 141,Financial Management in HRRI,Core,3,2,3
+PI 100,The Life and Works of Jose Rizal,Core,3,1,4
+HRIM 128,Facilities Planning and Design,Core,4,1,4
+HRIM 138,Properties Management for HRRI,Core,3,1,4
+HRIM 190,Strategic Management in HRRI,Core,3,1,4
+HRIM 199,Research in HRIM,Core,3,1,4
+HRIM 174,Practicum I,Core,4,2,4
+HRIM 175,Practicum II,Core,5,2,4

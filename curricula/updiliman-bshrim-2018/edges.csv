@@ -1,0 +1,23 @@
+Source,Target,Type,Label,Weight
+Math 20,Math 21,Directed,Prerequisite,2
+HRIM 120,HRIM 102,Directed,Prerequisite,2
+HRIM 101,HRIM 102,Directed,Prerequisite,2
+FN 11,HRIM 103,Directed,Prerequisite,2
+FN 11,HRIM 104,Directed,Prerequisite,2
+FS 105,HRIM 104,Directed,Prerequisite,2
+HRIM 120,HRIM 104,Directed,Prerequisite,2
+FN 11,HRIM 105,Directed,Prerequisite,2
+HRIM 120,HRIM 105,Directed,Prerequisite,2
+HRIM 106,HRIM 107,Directed,Prerequisite,2
+FN 11,HRIM 109,Directed,Prerequisite,2
+HRIM 120,HRIM 109,Directed,Prerequisite,2
+HRIM 104,HRIM 109,Undirected,Corequisite,1
+HRIM 105,HRIM 111,Directed,Prerequisite,2
+HRIM 112,HRIM 127,Directed,Prerequisite,2
+HRIM 112,HRIM 141,Directed,Prerequisite,2
+HRIM 115,HRIM 141,Directed,Prerequisite,2
+HRIM 170,HRIM 128,Directed,Prerequisite,2
+HRIM 102,HRIM 138,Directed,Prerequisite,2
+HRIM 141,HRIM 190,Directed,Prerequisite,2
+HRIM 170,HRIM 190,Directed,Prerequisite,2
+Stat 101,HRIM 199,Directed,Prerequisite,2

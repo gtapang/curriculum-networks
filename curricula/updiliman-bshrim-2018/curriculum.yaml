@@ -1,0 +1,50 @@
+slug: updiliman-bshrim-2018
+program: BS Hotel, Restaurant and Institution Management (2018 fast-track)
+program_short: BSHRIM-2018
+institution: University of the Philippines Diliman
+country: Philippines
+catalog_year: 2018
+total_units: 138
+source: >
+  "Existing (138 units)" program of study and "Existing" course prerequisite
+  statements in the Proposed Curricular Revision of the BS HRIM, Appendix H,
+  10 Dec 2020 CC / 19 Apr 2021 UC (162nd UPD UC; approved 08 Jun 2021).
+  Document: "Copy of Appendix H and H1_Revision of BSHIRM (1).pdf"
+  (project Google Drive, BSHRIM ABM folder). The 2018 fast-track curriculum
+  was approved at the 149th UPD UC, 19 June 2018.
+tags: [hospitality, pre-reform]
+quantitative_courses: ["Math 20", "Math 21", "Stat 101"]
+notes: |
+  Encoded from the UC-approved revision document that replaced this
+  curriculum with the 2021 one (curricula/updiliman-bshrim-2021), enabling
+  the before/after reform comparison.
+  Encoding decisions:
+  - Prerequisites are taken from the "Existing" side of each revision entry
+    (Appendix H pp. 4-11). Two legacy references in those catalog texts name
+    courses absent from the 2018 program of study and were mapped to their
+    2018 equivalents (both flagged CONFIRM):
+      * "HRIM 100 Introduction to Operations" -> HRIM 120 (the June 2018
+        revision replaced HRIM 100 with the HRIM 110/120 intro pair)
+      * "Accounting 1 Introduction to Financial Accounting" -> HRIM 101
+  - Standing-based prerequisites (Sophomore/Junior/Senior Standing, e.g. for
+    HRIM 101, HRIM 127, HRIM 128, HRIM 170, HRIM 190, HRIM 199) are not
+    course edges and are omitted.
+  - Courses whose own prerequisites are not stated anywhere in Appendix H
+    carry no incoming edges: HRIM 106, HRIM 112, HRIM 115, HRIM 130,
+    HRIM 160, HRIM 174, HRIM 175. CONFIRM against the 2006-2010/2018
+    catalogs if available.
+  - "Elective 1/2" are the two 3-unit qualified-elective slots (HRIM or
+    non-HRIM; options list on Appendix H p. 46).
+  - Negative Units mark non-credit requirements (PE x4, NSTP x2, Math 20),
+    following the repo convention; positive units sum to the declared 138.
+qa: |
+  Spot-check sample against Appendix H (page references from the PDF):
+  - HRIM 104 prereqs FN 11, FS 105, HRIM 100 [->HRIM 120]: p. 4
+  - HRIM 143 predecessor HRIM 109 prereqs FN 11, HRIM 100; coreq HRIM 104: p. 5
+  - HRIM 111 prereq HRIM 105: p. 6
+  - HRIM 128 prereq HRIM 170 (+Senior Standing): p. 6
+  - HRIM 138 prereq HRIM 102: p. 7 ("Prerequisite: HRIM 102 Rooms Division Management")
+  - HRIM 141 prereqs HRIM 112, HRIM 115: p. 9
+  - HRIM 190 prereqs HRIM 141, HRIM 170 (+Senior Standing): p. 10
+  - HRIM 199 prereq Stat 101 (+Senior Standing): p. 8
+  - Program of study and 138-unit total: pp. 43-46 ("Existing" column)

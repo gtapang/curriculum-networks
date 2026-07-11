@@ -1,0 +1,3 @@
+slug,program,institution,country,catalog_year,courses,prerequisite_edges,corequisite_edges,credit_units,density,depth,width,structural_complexity,max_blocking_factor,max_delay_factor,top_blocking_course,modularity,communities,quantitative_chain_length
+updiliman-bshrim-2018,"BS Hotel, Restaurant and Institution Management (2018 fast-track)",University of the Philippines Diliman,Philippines,2018,50,21,1,138.0,0.008571428571428572,3,36,112,6,3,Micro-Perspectives in HRRI,0.6332644628099173,32,2
+updiliman-bshrim-2021,"BS Hotel, Restaurant and Institution Management",University of the Philippines Diliman,Philippines,2021,55,51,5,156.0,0.01717171717171717,7,27,403,25,7,Macro-Perspectives in HRRI,0.4454719387755102,24,7

@@ -6,8 +6,9 @@ Status: `have` / `identified` / `requested` / `encoded` (encoded = in `curricula
 
 | Program | Source | Status |
 | --- | --- | --- |
-| BS HRIM (2021) | APacCHRIE 2026 anonymized tables | **encoded** (`curricula/updiliman-bshrim-2021/`) |
-| BS Physics | NIP curriculum checklist (co-author's institute) | identified |
+| BS HRIM (2021) | APacCHRIE 2026 anonymized tables; prereqs cross-verified vs Appendix H (UC-approved revision doc) | **encoded** (`curricula/updiliman-bshrim-2021/`) |
+| BS HRIM (2018 fast-track, pre-reform) | Appendix H "Existing" program of study + prerequisite statements | **encoded** (`curricula/updiliman-bshrim-2018/`) — enables the 2018→2021 reform comparison |
+| BS Physics | NIP curriculum checklist: https://nip.upd.edu.ph/app/uploads/2020/06/BSPhysics_curriculum_post.pdf (+ CRS catalog for prereqs) | identified — **fetch blocked** by this session's network policy (403 on nip.upd.edu.ph); download locally or widen the environment's network access |
 | BS Computer Science | DCS curriculum page | identified |
 | 2–3 Engineering programs (CE/ME/EEE) | COE curriculum checklists | identified |
 | BS Business Administration | VSB/CBA prospectus | identified |
@@ -26,7 +27,7 @@ the *regulatory floor* every PH HEI must meet. Target ~8–12 programs:
 
 | Program | CMO | Status |
 | --- | --- | --- |
-| BS Hospitality Management | CMO 62 s.2017 (BSHM PSG) | identified |
+| BS Hospitality Management | CMO 62 s.2017 (BSHM PSG): https://chedro1.com/wp-content/uploads/2019/07/CMO-62-s.-2017-BS-Hospitality-Tourism-Management.pdf (mirror: cmu.edu.ph) | identified — **fetch blocked** by this session's network policy (403); download locally and drop the PDF into the repo or Drive |
 | BS Tourism Management | CMO 62 s.2017 companion | identified |
 | GE core | CMO 20 s.2013 | identified |
 | BS Computer Science | CMO 25 s.2015 | identified |
