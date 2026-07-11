@@ -1,0 +1,17 @@
+slug: example-toy-2026
+program: Example Toy Program
+program_short: TOY
+institution: Example University
+country: Philippines
+catalog_year: 2026
+total_units: 28
+source: >
+  Synthetic example demonstrating the standard courses.csv format. Not a real
+  curriculum. Exercised by tests/test_format.py.
+tags: [example]
+quantitative_courses: [MATH1, MATH2]
+prereqs_encoded: true
+notes: |
+  Demonstrates every feature: an AND prerequisite (CAP), an OR prerequisite
+  (MGMT), a corequisite (DS-MATH2), a class-standing gate (MGMT, CAP), a
+  midyear course (CAP, sem M), and a non-credit course (PE1, negative units).

@@ -11,6 +11,8 @@ source: >
   Management Education" (repo: data/nodes_table_anon.csv, data/edges_table_anon.csv).
 tags: [hospitality, reference-curriculum]
 quantitative_courses: [PRECALC, CALC, STAT]
+prereqs_encoded: true
+format: legacy-nodes-edges   # kept as nodes.csv + edges.csv for provenance; new curricula use courses.csv (docs/CURRICULUM_FORMAT.md)
 notes: |
   Normalizations applied when migrating the anonymized APacCHRIE tables to the
   canonical format (original tables kept unchanged in data/ for provenance):

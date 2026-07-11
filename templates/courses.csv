@@ -1,0 +1,5 @@
+id,title,units,category,year,sem,prerequisites,corequisites,standing,notes
+COURSE1,First Course,3,Core,1,1,,,,
+COURSE2,Second Course,3,Core,1,2,COURSE1,,,requires COURSE1
+COURSE3,Third Course,3,Core,2,1,COURSE1; COURSE2,,Junior,AND of two prereqs
+PE1,Physical Education,-2,PE,1,1,,,,non-credit (negative units)

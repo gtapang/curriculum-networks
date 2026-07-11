@@ -1,0 +1,10 @@
+id,title,units,category,year,sem,prerequisites,corequisites,standing,notes
+MATH1,Calculus I,5,Core,1,1,,,,
+MATH2,Calculus II,5,Core,1,2,MATH1,,,
+INTRO,Introduction to Programming,3,Core,1,1,,,,
+DS,Data Structures,3,Core,1,2,INTRO,MATH2,,coreq with MATH2
+ECON1,Microeconomics,3,GE,1,1,,,,
+ECON2,Macroeconomics,3,GE,1,2,ECON1,,,
+MGMT,Management,3,Core,2,1,ECON1 | ECON2,,Junior,OR prerequisite
+CAP,Capstone Project,3,Core,2,M,DS; MGMT,,Senior,midyear AND prerequisite
+PE1,Physical Education,-2,PE,1,1,,,,non-credit

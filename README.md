@@ -22,12 +22,16 @@ curriculum_summary(bshrim)      # one master-table row
 compare_directory("curricula")  # cross-curriculum comparison table
 ```
 
-- `curricnet/` — package: `schema` (validation), `ingest` (CSV/checklist/GEXF),
+- `curricnet/` — package: `schema` (validation), `format` (the standard
+  `courses.csv` reader + prerequisite grammar), `ingest` (loading/GEXF),
   `metrics` (Heileman blocking/delay/cruciality/structural complexity + CPN
   descriptors), `cohort` (empirical progression networks from student records),
   `viz` (GEXF/Sankey/tables), `compare` (master table).
 - `curricula/` — one directory per encoded curriculum
-  (`curriculum.yaml` + `nodes.csv` + `edges.csv`).
+  (`curriculum.yaml` + `courses.csv`).
+- **[`docs/CURRICULUM_FORMAT.md`](docs/CURRICULUM_FORMAT.md) — the standard
+  encoding format for all new curricula.** `templates/` has a blank starter
+  and a worked `example/`.
 - `docs/literature.md` — annotated bibliography; `docs/data-sources.md` —
   acquisition tracker (UP Diliman, CHED PSGs, international).
 - `tests/` — regression tests pinned to the published APacCHRIE 2026 numbers.

@@ -1,0 +1,16 @@
+slug: institution-program-year          # matches the directory name
+program: Full Program Name
+program_short: SHORT
+institution: Institution Name
+country: Philippines
+catalog_year: 2018
+total_units: 0                          # sum of positive units in courses.csv
+source: >
+  Where the data came from (checklist file, catalogue URL, document + page).
+tags: []
+quantitative_courses: []                # ids of math/stat gate courses
+prereqs_encoded: false                  # true once prerequisites are filled in
+notes: |
+  Encoding decisions, id mappings, and caveats.
+qa: |
+  ~10% of edges spot-checked against the source, with page references.

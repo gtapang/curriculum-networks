@@ -7,7 +7,13 @@ and compares curricula across programs, institutions, and countries.
 """
 
 from curricnet.schema import Curriculum, ValidationReport
-from curricnet.ingest import load_curriculum, curriculum_from_frames, structural_graph
+from curricnet.format import parse_requirements, read_courses_csv, courses_to_frames
+from curricnet.ingest import (
+    load_curriculum,
+    curriculum_from_frames,
+    from_checklist_table,
+    structural_graph,
+)
 from curricnet.metrics import (
     blocking_factor,
     delay_factor,
@@ -24,7 +30,11 @@ __all__ = [
     "ValidationReport",
     "load_curriculum",
     "curriculum_from_frames",
+    "from_checklist_table",
     "structural_graph",
+    "parse_requirements",
+    "read_courses_csv",
+    "courses_to_frames",
     "blocking_factor",
     "delay_factor",
     "cruciality",
