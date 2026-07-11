@@ -1,0 +1,52 @@
+Id,Label,Category,Units,Semester,Year
+Math 2,Math 2 (GE 1),GE,3,1,1
+Eng 13,Eng 13 (GE 2),GE,3,1,1
+Tour 102,Tour 102,Core,4,1,1
+Tour 110,Tour 110,Core,3,1,1
+Tour 120,Tour 120,Core,4,1,1
+PE 1,Physical Education,PE,-2,1,1
+ARTS 1,ARTS 1 (GE 3),GE,3,2,1
+Econ 11,Econ 11 (GE 4),GE,3,2,1
+Kas 1,Kas 1 (GE 5),GE,3,2,1
+Tour 112,Tour 112,Core,3,2,1
+Tour 113,Tour 113,Core,3,2,1
+Tour 161,Tour 161,Core,3,2,1
+PE 2,Physical Education,PE,-2,2,1
+NSTP,NSTP - CWTS 1 & 2,NSTP,-6,3,1
+Philo 1,Philo 1 (GE 6),GE,3,1,2
+Tour 114,Tour 114,Core,3,1,2
+Tour 122,Tour 122,Core,3,1,2
+Tour 130,Tour 130,Core,3,1,2
+Tour 151,Tour 151,Core,3,1,2
+Tour 181,Tour 181,Core,3,1,2
+PE 3,Physical Education,PE,-2,1,2
+Soc Sci 1,Soc Sci 1 (GE 7),GE,3,2,2
+Fil 40,Fil 40 (GE 8),GE,3,2,2
+Speech 30,Speech 30 (GE 9),GE,3,2,2
+Tour 119,Tour 119,Core,3,2,2
+Tour 153,Tour 153,Core,3,2,2
+Tour 182,Tour 182,Core,3,2,2
+PE 4,Physical Education,PE,-2,2,2
+STS 1,STS 1 (GE 10),GE,3,1,3
+Tour 131,Tour 131,Core,3,1,3
+Tour 144,Tour 144,Core,3,1,3
+Tour 175,Tour 175,Core,5,1,3
+Elective 1,Elective,Elective,3,1,3
+Elective 2,Elective,Elective,3,1,3
+Tour 111,Tour 111,Core,3,2,3
+Tour 126,Tour 126,Core,3,2,3
+Tour 136,Tour 136,Core,3,2,3
+Elective 3,Elective,Elective,3,2,3
+Elective 4,Elective,Elective,3,2,3
+Elective 5,Elective,Elective,3,2,3
+Tour 109,"Tour 109 (Internship, midyear)",Core,6,3,3
+Tour 121,Tour 121,Core,3,1,4
+Tour 192,Tour 192,Core,3,1,4
+Tour 199,Tour 199,Core,3,1,4
+PI 100,PI 100,Core,3,1,4
+Elective 6,Elective,Elective,3,1,4
+Tour 115,Tour 115,Core,3,2,4
+Tour 198,Tour 198,Core,3,2,4
+Tour 200,Tour 200,Core,3,2,4
+Elective 7,Elective,Elective,3,2,4
+Elective 8,Elective,Elective,3,2,4

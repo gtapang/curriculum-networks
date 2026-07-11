@@ -4,13 +4,27 @@ Status: `have` / `identified` / `requested` / `encoded` (encoded = in `curricula
 
 ## Tier A — UP Diliman implemented curricula
 
+**Checklist corpus:** `checklists/` holds the official OUR curriculum
+checklists for the whole of UP Diliman (58 valid PDFs + `undergraduate_programs.json`
+index of 78 programs with college/department metadata). 20 downloads failed and
+are 32,414-byte HTML error pages needing re-download: Applied_Physics,
+Applied_Psychology_(UPDEPPO), Art_Studies, Building_Technology,
+Business_Administration_and_Accountancy, Business_Economics_(UPDEPPO),
+Business_Management_(UPDEPPO), Electronics_Engineering, Elementary_Education,
+English_Studies: Language, English_Studies: Literature, Filipino,
+Industrial_Design, Journalism, Music, Philippine_Studies, Philosophy,
+**Physics**, Secondary_Education, Sports_Studies.
+NOTE: OUR checklists carry placement + units but NOT prerequisites — encode
+placement from the checklist, prerequisites from the college catalogue /
+CRS course catalog / course-description PDFs.
+
 | Program | Source | Status |
 | --- | --- | --- |
 | BS HRIM (2021) | APacCHRIE 2026 anonymized tables; prereqs cross-verified vs Appendix H (UC-approved revision doc) | **encoded** (`curricula/updiliman-bshrim-2021/`) |
 | BS HRIM (2018 fast-track, pre-reform) | Appendix H "Existing" program of study + prerequisite statements | **encoded** (`curricula/updiliman-bshrim-2018/`) — enables the 2018→2021 reform comparison |
 | BS Physics | NIP curriculum checklist: https://nip.upd.edu.ph/app/uploads/2020/06/BSPhysics_curriculum_post.pdf (+ CRS catalog for prereqs) | identified — **fetch blocked** by this session's network policy (403 on nip.upd.edu.ph); download locally or widen the environment's network access |
-| BS Tourism (AIT) | Program page: https://ait.upd.edu.ph/bachelor-of-science-in-tourism/ ; official OUR checklist PDF: https://our.upd.edu.ph/files/Checklist/UG/AIT/AIT_Bachelor%20of%20Science%20in%20Tourism.pdf ; OUR catalogue: https://our.upd.edu.ph/files/catalogue/AIT.pdf | identified — **fetch blocked** by session network policy (403 on ait/our.upd.edu.ph). Known from public summaries: 150 units, 47 courses, ~45 GE units, 19 required tourism subjects, 5 tourism electives (6 u may be one foreign language), 360-hour internship. Upload the checklist PDF to Drive/repo, or allow \*.upd.edu.ph in the environment network policy, to encode. |
-| Bachelor of Public Administration (NCPAG) | Program page: https://ncpag.upd.edu.ph/what-we-offer/undergraduate-program/ ; official OUR checklist PDF (2018 curriculum): https://our.upd.edu.ph/files/Checklist/UG/NCPAG/NCPAG_Bachelor%20of%20Public%20Administration.pdf ; course descriptions with prerequisites: https://ncpag.upd.edu.ph/wp-content/uploads/2015/06/BPA-Undergraduate-Course-Description.pdf ; OUR catalogue: https://our.upd.edu.ph/files/catalogue/NCPAG.pdf | identified — **fetch blocked** by session network policy (403 on ncpag/our.upd.edu.ph). Upload the checklist + course-description PDFs to Drive/repo, or allow \*.upd.edu.ph in the environment network policy, to encode. |
+| BS Tourism (AIT) | checklists/Tourism.pdf (148th UC, 28 May 2018, 145 u) | **encoded** (`curricula/updiliman-bstourism-2018/`, placement-only) — prerequisites pending from AIT catalogue / CRS |
+| Bachelor of Public Administration (NCPAG) | checklists/Public_Administration.pdf (Appendix M, 148th UC 28 May 2018, 144 u) | **encoded** (`curricula/updiliman-bpa-2018/`, placement-only) — prerequisites pending from https://ncpag.upd.edu.ph/wp-content/uploads/2015/06/BPA-Undergraduate-Course-Description.pdf (blocked; please upload) |
 | BS Computer Science | DCS curriculum page | identified |
 | 2–3 Engineering programs (CE/ME/EEE) | COE curriculum checklists | identified |
 | BS Business Administration | VSB/CBA prospectus | identified |

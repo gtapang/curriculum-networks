@@ -1,0 +1,28 @@
+slug: updiliman-bpa-2018
+program: Bachelor of Public Administration
+program_short: BPA
+institution: University of the Philippines Diliman (NCPAG)
+country: Philippines
+catalog_year: 2018
+total_units: 144
+prereqs_encoded: false
+source: >
+  Official OUR curriculum checklist (checklists/Public_Administration.pdf),
+  Appendix M, 20 Mar 2018 CC / 28 May 2018 UC (148th UPD UC), effective
+  1st Semester AY 2018-2019. Program page:
+  https://ncpag.upd.edu.ph/what-we-offer/undergraduate-program/
+tags: [public-administration, placement-only]
+quantitative_courses: ["Math 10", "Stat 101"]
+notes: |
+  PLACEMENT-ONLY ENCODING: the OUR checklist lists courses, units, and
+  semester placement but no prerequisites, so this curriculum has zero
+  prerequisite edges and its structural-network metrics are not yet
+  comparable. Prerequisite source to encode next: BPA course descriptions
+  with prerequisites at
+  https://ncpag.upd.edu.ph/wp-content/uploads/2015/06/BPA-Undergraduate-Course-Description.pdf
+  (fetch currently blocked; upload like the checklists).
+  Conventions: PE x4 (-2) and NSTP x2 (-3) non-credit; Semester 3 = midyear
+  (PA 181, 6 units). PA 191 is taken twice with different topics (encoded as
+  PA 191a/PA 191b); its stipulation is third-year standing or >=15 PA units
+  (standing rule, not a course edge). Recommended non-PA electives:
+  Econ 100.1/100.2, Socio 11, Psych 108, POLSC 14.

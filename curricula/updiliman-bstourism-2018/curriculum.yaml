@@ -1,0 +1,27 @@
+slug: updiliman-bstourism-2018
+program: BS Tourism
+program_short: BST
+institution: University of the Philippines Diliman (Asian Institute of Tourism)
+country: Philippines
+catalog_year: 2018
+total_units: 145
+prereqs_encoded: false
+source: >
+  Official OUR curriculum checklist (checklists/Tourism.pdf), UC approval
+  148th UPD UC 28 May 2018, effective 1st Semester AY 2018-2019.
+  Program page: https://ait.upd.edu.ph/bachelor-of-science-in-tourism/
+tags: [tourism, placement-only]
+quantitative_courses: ["Math 2"]
+notes: |
+  PLACEMENT-ONLY ENCODING: the OUR checklist lists courses, units, and
+  semester placement but no prerequisites, so this curriculum has zero
+  prerequisite edges and its structural-network metrics are not yet
+  comparable. Prerequisite sources to encode next: AIT catalogue
+  (https://our.upd.edu.ph/files/catalogue/AIT.pdf) or the UP CRS course
+  catalog (crs.upd.edu.ph) Tour course entries.
+  Conventions: PE x4 (-2 each) and NSTP-CWTS midyear (-6) are non-credit;
+  Semester 3 = midyear. Tour 109 is the 6-unit midyear internship.
+  Electives: 24 units, Tourism or non-Tourism (Tour 116/117/118/145/166/
+  167/168/197 qualify; foreign language counts, 12 units if taken in one
+  language). Math 2 waived for transferees with prior college math
+  (checklist note *).

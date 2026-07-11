@@ -1,0 +1,54 @@
+Id,Label,Category,Units,Semester,Year
+ARTS 1,ARTS 1 (GE 1),GE,3,1,1
+Eng 13,Eng 13 (GE 2),GE,3,1,1
+Kas 1,Kas 1 (GE 3),GE,3,1,1
+Soc Sci 1,Soc Sci 1 or 2 (GE 4),GE,3,1,1
+Math 10,MATH 10 (GE 5),GE,3,1,1
+PE 1,Physical Education,PE,-2,1,1
+Fil 40,Fil 40 (GE 6),GE,3,2,1
+Philo 1,Philo 1 (GE 7),GE,3,2,1
+Speech 30,Speech 30 (GE 8),GE,3,2,1
+Econ 11,Econ 11 (GE 9),GE,3,2,1
+PA 101,PA 101,Core,3,2,1
+POLSC 11,POLSC 11,Core,3,2,1
+PE 2,Physical Education,PE,-2,2,1
+Eng 30,Eng 30 (GE 10),GE,3,1,2
+PA 102,PA 102,Core,3,1,2
+PA 111,PA 111,Core,3,1,2
+Acctg 1,Acctg 1,Core,3,1,2
+Psych 101,Psych 101,Core,3,1,2
+Non-PA Elective 1,Non-PA Elective,Elective,3,1,2
+NSTP 1,NSTP,NSTP,-3,1,2
+PE 3,Physical Education,PE,-2,1,2
+PA 103,PA 103,Core,3,2,2
+PA 112,PA 112,Core,3,2,2
+PA 121,PA 121,Core,3,2,2
+PA 141,PA 141,Core,3,2,2
+Stat 101,Stat 101,Core,3,2,2
+Non-PA Elective 2,Non-PA Elective,Elective,3,2,2
+NSTP 2,NSTP,NSTP,-3,2,2
+PE 4,Physical Education,PE,-2,2,2
+STS 1,STS 1/DRMAPS (GE 11),GE,3,1,3
+PA 104,PA 104,Core,3,1,3
+PA 113,PA 113,Core,3,1,3
+PA 131,PA 131,Core,3,1,3
+PA 142,PA 142,Core,3,1,3
+Non-PA Elective 3,Non-PA Elective,Elective,3,1,3
+PA 105,PA 105,Core,3,2,3
+PA 124,PA 124,Core,3,2,3
+PA 143,PA 143,Core,3,2,3
+PA 151,PA 151,Core,3,2,3
+Non-PA Elective 4,Non-PA Elective,Elective,3,2,3
+Non-PA Elective 5,Non-PA Elective,Elective,3,2,3
+PA 181,PA 181 (midyear),Core,6,3,3
+PA 106,PA 106,Core,3,1,4
+PA 132,PA 132,Core,3,1,4
+PA 152,PA 152,Core,3,1,4
+PA 191a,PA 191 (1st take),Core,3,1,4
+PA 199.1,PA 199.1,Core,3,1,4
+Non-PA Elective 6,Non-PA Elective,Elective,3,1,4
+PA 107,PA 107,Core,3,2,4
+PA 108,PA 108,Core,3,2,4
+PA 191b,PA 191 (2nd take),Core,3,2,4
+PA 199.2,PA 199.2,Core,3,2,4
+PI 100,PI 100,Core,3,2,4
