@@ -29,6 +29,9 @@ compare_directory("curricula")  # cross-curriculum comparison table
   `viz` (GEXF/Sankey/tables), `compare` (master table).
 - `curricula/` — one directory per encoded curriculum
   (`curriculum.yaml` + `courses.csv`).
+- **[`docs/AGENT_HANDOFF.md`](docs/AGENT_HANDOFF.md) — start here if you are an
+  AI agent (or new collaborator) picking up this project.** Self-contained
+  operational manual: environment, guardrails, command recipes, next actions.
 - **[`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md) — the complete project plan**
   (scope, two-paper split, architecture, data status, roadmap, blockers).
 - **[`docs/CURRICULUM_FORMAT.md`](docs/CURRICULUM_FORMAT.md) — the standard

@@ -10,6 +10,9 @@ status, methodology, data, and roadmap.
 - **Status date:** 2026-07-12
 - **Test suite:** 58 passing (`pytest tests/`)
 - **Curricula encoded:** 4 (BSHRIM 2018, BSHRIM 2021, BS Tourism 2018, BPA 2018)
+- **Picking this up as an agent?** Start with
+  [`docs/AGENT_HANDOFF.md`](AGENT_HANDOFF.md) — the self-contained operational
+  manual (environment, guardrails, command recipes, next actions).
 
 ---
 
