@@ -29,6 +29,8 @@ compare_directory("curricula")  # cross-curriculum comparison table
   `viz` (GEXF/Sankey/tables), `compare` (master table).
 - `curricula/` — one directory per encoded curriculum
   (`curriculum.yaml` + `courses.csv`).
+- **[`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md) — the complete project plan**
+  (scope, two-paper split, architecture, data status, roadmap, blockers).
 - **[`docs/CURRICULUM_FORMAT.md`](docs/CURRICULUM_FORMAT.md) — the standard
   encoding format for all new curricula.** `templates/` has a blank starter
   and a worked `example/`.
